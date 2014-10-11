@@ -1,0 +1,4 @@
+# kokoro.io server provisioning recipe
+
+- Itamae
+- Serverspec
